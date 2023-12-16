@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712139213805",
+    "project_id": "webview-with-push-notification",
+    "storage_bucket": "webview-with-push-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712139213805:android:67ba359dab2e8c34d235e4",
+        "android_client_info": {
+          "package_name": "com.niloythings.pushwebview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD576hAMk44zJS-oz2Y7e56KwGZhM-XdbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
